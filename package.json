@@ -1,0 +1,15 @@
+{
+  "name": "rocketmovies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas B Peixoto",
+  "license": "ISC",
+  "description": "Node.js backend of 'Movie review' application",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.6.0"
+  }
+}
