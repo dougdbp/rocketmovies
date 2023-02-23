@@ -14,3 +14,26 @@ To install the dependencies with NPM:
 ```bash
   npm install
 ```
+After this, you will create the Tables inside the Database by this line:
+
+```bash
+  npm run migrate
+```
+
+Now, you can create a server to develop or to use the API by this 2 codes:
+```bash
+  npm run dev
+```
+or
+```bash
+  npm start
+```
+
+To stop the server: ```Ctrl + C``` at the terminal.
+## Authors
+
+- Dev: Douglas B Peixoto.
+
+- Instagram ([@bulldog.dev](https://www.instagram.com/bulldog.dev))
+
+- [Github](https://github.com/dougdbp)
